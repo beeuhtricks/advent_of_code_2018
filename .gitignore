@@ -1,5 +1,3 @@
 **/target
 **/Cargo.lock
-.idea/*.iml
-.idea/workspace.xml
-.idea/modules.xml
+.idea/
